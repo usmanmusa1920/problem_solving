@@ -9,6 +9,14 @@
     
     Problem solving is used in engineering when products or processes fail, so corrective action can be taken to prevent further failures. It can also be applied to a product or process prior to an actual fail event, i.e., when a potential problem can be predicted and analyzed, and mitigation applied so the problem never actually occurs. Techniques such as Failure Mode Effects Analysis can be used to proactively reduce the likelihood of problems occurring.
     
+    We will go into simulation also as well:
+      # Simulation is when you code up all the laws of physics, into a programm, and run that programm to try and create what happened when planet run around stars, or what happend when galaxies collide, or maybe even what happend if star get too close to black hole.
+
+      # Running a simulation is what is called high performance computing.
+
+      # Simulation is like a movie of an object evolving, which will reduce the time for solving big problem
+
+    
         Problem: To print the 13 times table from 1 x 13 to 12 x 13
         Algorithm: 
         1 	FOR z = 1 to 12
