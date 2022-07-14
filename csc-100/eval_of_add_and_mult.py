@@ -1,4 +1,4 @@
-#  Write a program in python that will receive two input from user and perform addition and multiplication, the output should be in positive integer value, regardless of whatever value the user entered.
+#  A program in python that will receive two input from user and perform addition and multiplication, the output should be in positive integer value, regardless of whatever value the user entered.
 
 num1 = eval(input('Enter a first number: '))
 num2 = eval(input('Enter a second number: '))
